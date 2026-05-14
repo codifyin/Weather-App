@@ -10,7 +10,7 @@ This is a simple weather app that provides weather information for a given city.
 
 **Clone Repository:**
    ```bash
-   git clone <repository-url>
+   git clone
    cd weather-app
 
 ## Install Dependencies:
@@ -28,14 +28,6 @@ bash
 Copy code
 npm start
 
-
-## Access the App:
-
-Open your browser and go to http://localhost:3000 to access the weather app.
-
-![Alt text](image-1.png)
-
-![Alt text](image-2.png)
 
 ## Usage
 
